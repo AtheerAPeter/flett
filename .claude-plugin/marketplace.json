@@ -1,0 +1,15 @@
+{
+  "name": "flett",
+  "description": "Flett's plugin: the Flett whiteboard connector and a skill for drawing good boards with it.",
+  "owner": {
+    "name": "Flett",
+    "email": "support@flett.app"
+  },
+  "plugins": [
+    {
+      "name": "flett",
+      "source": "./",
+      "description": "A live, shared whiteboard your AI draws on: diagrams, flowcharts, mind maps, slides, documents and maps."
+    }
+  ]
+}

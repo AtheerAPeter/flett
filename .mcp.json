@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "flett": {
+      "type": "http",
+      "url": "https://flett.app/api/mcp"
+    }
+  }
+}

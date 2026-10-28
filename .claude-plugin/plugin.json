@@ -1,0 +1,27 @@
+{
+  "name": "flett",
+  "displayName": "Flett",
+  "version": "1.0.0",
+  "description": "A live, shared whiteboard your AI draws on: diagrams, flowcharts, mind maps, slides, documents and maps that everyone on the board can edit, present and export.",
+  "author": {
+    "name": "Flett",
+    "email": "support@flett.app",
+    "url": "https://flett.app"
+  },
+  "homepage": "https://flett.app/docs/mcp",
+  "repository": "https://github.com/AtheerAPeter/flett",
+  "license": "MIT",
+  "keywords": [
+    "whiteboard",
+    "diagrams",
+    "flowchart",
+    "mind-map",
+    "slides",
+    "architecture",
+    "mcp"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://flett.app/docs/mcp",
+  "supportUrl": "https://flett.app/docs",
+  "privacyPolicyUrl": "https://flett.app/privacy"
+}
